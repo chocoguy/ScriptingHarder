@@ -1,0 +1,6 @@
+It's just a more limited glorified linux  VM, Don't really get codespaces tbh :(
+
+
+oh no no no, its running ubuntu lol
+
+more like noobuntu, use arch or debian tbh
