@@ -4,3 +4,7 @@ It's just a more limited glorified linux  VM, Don't really get codespaces tbh :(
 oh no no no, its running ubuntu lol
 
 more like noobuntu, use arch or debian tbh
+
+more like macos that mac mini with the M2 chip looking very tasty!!!
+
+hello world from samsung dex running on the mobile firefox browser off a samsung galaxy s10, this is pretty rad, also written on VIM
